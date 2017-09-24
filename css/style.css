@@ -1,0 +1,52 @@
+body {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+
+.nav-item{
+  margin:2px;
+}
+
+.header {
+  padding-right: 1rem;
+  padding-left: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: .05rem solid #e5e5e5;
+}
+
+.jumbotron {
+  text-align: center;
+  border-bottom: .05rem solid #e5e5e5;
+  margin: 2% 10% 2% 10%;
+  
+}
+.list-group-item{
+  margin: 0.5em;
+}
+.list-group-item img{
+  display: block;
+  float: left;
+  width:50px;
+  height:50px;
+}
+
+.list-group-item .ch_name{
+  text-align:left;
+  margin-left: 70px;
+  margin-bottom: 0px;
+  font-weight: bold;
+}
+
+.list-group-item .ch_info{
+  text-align:left;
+  margin-left: 70px;
+  margin-bottom: 10px;
+}
+
+.online{
+  background:#b1ffa0;
+}
+
+.offline{
+  background:#ffa0a0;
+}
